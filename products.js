@@ -72,7 +72,7 @@ const products = [
 		category: 'cat2',
 		title: 'محرك أوتوماتيكي أصلي من كراون Crown Pompe à Eau & Cerveau Suppresseur ' ,
 		description: 'لضخ المياه بقوة ضغط عالية '  ,
-		price1: 12000, price:10200, percentage: 12 ,
+		price1: 12000, price:10500, percentage: 12 ,
 		description2: 'Voltage rating: 220V/50Hz. Rated Power: 370W. Max Current: 2.5 A Flow: 35L/min. Lift: 42 M. The Absorption Process: 8 M.'  ,
 	},
 	{
