@@ -12,7 +12,7 @@ const products = [
 		link_facebook: 'https://www.facebook.com/BBrico.vente.enligne/',
         link_instegram: 'https://www.facebook.com/',
 		nember: 'tel:0540643397',
-		Adrar:1300, Chlef:700, Laghouat:700, Oum_El_Bouaghi:800, Batna:800, Béjaïa:700, Biskra:800, Béchar:100,Blida:400,Bouira:600,Tamanrasset:1400,Tébessa:800,Tlemcen:700,Tiaret:750,Tizi_Ouzou:600,Alger:400,Djelfa:700,Jijel:700,Sétif:700,Saïda:800,Skikda:700,Sidi_Bel_Abbès:700,Annaba:700,Guelma:800,Constantine:700,Médéa:600,Mostaganem:700,MSila:800,Mascara:800,Ouargla:900,Oran:700,El_Bayadh:1000,Illizi:1300,Bordj_Bou_Arreridj:700,Boumerdès:600,El_Tarf:800,Tindouf:1300,Tissemsilt:750,El_Oued:900,Khenchela:800,Souk_Ahras:800,Tipaza:600,Mila:700,Aïn_Defla:600,Naâma:1000,Aïn_Témouchent:700,Ghardaïa:900,Relizane:700,Timimoun:1300,Bordj_Badji_Mokhtar:1300,Ouled_Djellal:800,Beni_Abbes:1000,In_Salah:1400,In_Guezzam:1400,Touggourt:900,Djanet:1300,El_MGhair:900,El_Meniaa:900,
+		Adrar:1300, Chlef:700, Laghouat:700, Oum_El_Bouaghi:800, Batna:800, Béjaïa:700, Biskra:800, Béchar:1000,Blida:400,Bouira:600,Tamanrasset:1400,Tébessa:800,Tlemcen:700,Tiaret:750,Tizi_Ouzou:600,Alger:400,Djelfa:700,Jijel:700,Sétif:700,Saïda:800,Skikda:700,Sidi_Bel_Abbès:700,Annaba:700,Guelma:800,Constantine:700,Médéa:600,Mostaganem:700,MSila:800,Mascara:800,Ouargla:900,Oran:700,El_Bayadh:1000,Illizi:1300,Bordj_Bou_Arreridj:700,Boumerdès:600,El_Tarf:800,Tindouf:1300,Tissemsilt:750,El_Oued:900,Khenchela:800,Souk_Ahras:800,Tipaza:600,Mila:700,Aïn_Defla:600,Naâma:1000,Aïn_Témouchent:700,Ghardaïa:900,Relizane:700,Timimoun:1300,Bordj_Badji_Mokhtar:1300,Ouled_Djellal:800,Beni_Abbes:1000,In_Salah:1400,In_Guezzam:1400,Touggourt:900,Djanet:1300,El_MGhair:900,El_Meniaa:900,
 		
 	},
 	{
